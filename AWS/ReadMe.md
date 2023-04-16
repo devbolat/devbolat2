@@ -1,4 +1,5 @@
-A Git cheat sheet (Git command reference)
+# A Git cheat sheet (Git command reference)
+
 Git configuration (initial configuration)
 # your name and email address
 $ git config --global user.name "Alvin Alexander"
